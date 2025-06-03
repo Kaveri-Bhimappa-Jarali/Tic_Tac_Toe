@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game (For Beginners)
+# 🎮 Tic-Tac-Toe Game 
 
 This is a simple **Tic-Tac-Toe** game created using **HTML**, **CSS**, and **JavaScript**. It is designed for beginners who want to learn how to build fun web-based games using basic web technologies.
 
