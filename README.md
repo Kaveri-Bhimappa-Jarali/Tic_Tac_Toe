@@ -27,8 +27,9 @@ tic-tac-toe/
 - If all 9 boxes are filled without a winner, it ends in a draw.
 
 🛠️ Technologies Used
-    HTML – to build the layout
+
+HTML – to build the layout
     
-    CSS – to style the page
+CSS – to style the page
     
-    JavaScript – to add interactivity and game logic
+JavaScript – to add interactivity and game logic
